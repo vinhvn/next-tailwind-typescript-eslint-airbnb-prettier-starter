@@ -1,4 +1,6 @@
-# Tailwind CSS + TypeScript + Eslint + Airbnb + Prettier + Next.js Starter
+<h2 align="center">
+  ✨ Tailwind CSS + TypeScript + Eslint + Airbnb + Prettier + Next.js Starter ✨
+</h2>
 
 A lightweight boilerplate to get up and running with Tailwind CSS, TypeScript, Eslint w/ Airbnb config and Prettier set up with Next.js.
 
